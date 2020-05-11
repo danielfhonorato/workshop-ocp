@@ -1,4 +1,6 @@
 <?php
+echo "Lista de Cursos"
+
 echo "<h2>Título</h2>"
 echo "SubTítulo"
 echo "Autor"
