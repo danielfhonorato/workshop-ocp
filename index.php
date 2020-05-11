@@ -1,5 +1,5 @@
 <?php
-echo "Título"
+echo "<h2>Título</h2>"
 echo "SubTítulo"
 echo "Autor"
 echo "Data"
