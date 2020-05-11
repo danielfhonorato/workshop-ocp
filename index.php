@@ -4,7 +4,7 @@ echo "<h2>Título</h2>"
 echo "SubTítulo"
 echo "Autor"
 echo "Data"
-echo "<h1>Curso na Justiça Federal do Paraná - Openshift Workshop v2.0</h1> ";
+echo "<h1>Curso na Justiça Federal do Paraná - JFPR - Openshift Workshop v2.0</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 echo "<br><hr>";
 echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
